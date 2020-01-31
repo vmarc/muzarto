@@ -1,3 +1,3 @@
 # Muzarto
 
-![](doc/muzarto.png width=1411)
+![screenshot](doc/muzarto.png)
