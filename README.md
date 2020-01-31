@@ -1,3 +1,3 @@
 # Muzarto
 
-![Muzarto screenshot](./doc/muzarto.png =1411x866)
+![screenshot](./doc/muzarto.png width=1411x866)
